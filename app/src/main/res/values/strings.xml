@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Praetorian</string>
+    <string name="text_login">PRAETORIAN</string>
+    <string name="Hint_email">E-mail</string>
+    <string name="Hint_senha">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="texto_cadastro">Cadastrar Usuário</string>
+    <string name="cadastro_nome">Nome</string>
+    <string name="Hint_cadastroemail">E-mail</string>
+    <string name="Hint" />
+    <string name="Hint_resenha">Reinsira novamente a senha</string>
+    <string name="btn_cadastro">Cadastrar</string>
+    <string name="btnvoltar_cadastro">Voltar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_uploadfoto">UPLOAD</string>
+    <string name="btn_cancelaruploadfoto">CANCELAR</string>
+    <string name="img_logoPrincipal">Imagem do lofo do aplicativo</string>
+    <string name="title_activity_painel_inicial">PainelInicial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Praetorian</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Pagina Inicial</string>
+    <string name="menu_gallery">Glicose</string>
+    <string name="menu_slideshow">Medicamentos</string>
+    <string name="menu_tools">Pressão arterial</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_send">Send</string>
+
+    <string name="login_senha">Esqueci minha senha</string>
+    <string name="recuperaremail">Recuperar senha</string>
+    <string name="cacnelar_recuperação">Cancelar</string>
+    <string name="texto_recuperarsenha">Informe o email para recuperação de senha</string>
+    <string name="texto_tirar_foto">Tirar Foto</string>
+    <string name="texto_enviar_foto">Enviar Foto</string>
+    <string name="texto_upload_foto">Cadastrar Foto de usuário</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_insulina">Glicose mg/dL:</string>
+    <string name="imput_insulina">MG/DL</string>
+    <string name="txt_pressão">Pressão arterial (Pressão Sistólica e Diastólica)</string>
+    <string name="imput_pressao">mmHg</string>
+    <string name="data_medicao">Data da medição</string>
+    <string name="txt_batimentos_view">Batimento Cardiaco</string>
+    <string name="imput_batimento">Bpm</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hora_medicao">Hora da medição</string>
+</resources>

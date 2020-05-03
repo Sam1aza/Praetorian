@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614031620890",
+    "firebase_url": "https://praetorian-2879e.firebaseio.com",
+    "project_id": "praetorian-2879e",
+    "storage_bucket": "praetorian-2879e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614031620890:android:ebf248a56090264d79caa3",
+        "android_client_info": {
+          "package_name": "com.sisifus.praetorian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614031620890-i5td6p3llh6o1512lhqsmn6nv70vfo8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sisifus.praetorian",
+            "certificate_hash": "17fb430cc56f5290f462005cc91a5a489cdb956a"
+          }
+        },
+        {
+          "client_id": "614031620890-sqr4qct2cvvq8dfemclh9bduup7svgue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFJHpQsiB9oJRPNo6XOkx0VxxH7zxrMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614031620890-sqr4qct2cvvq8dfemclh9bduup7svgue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
